@@ -169,9 +169,8 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 👤 Author
 
 **Sivaram Senthilkumar**
-- Department of Mechanical and Industrial Engineering
 - University of Massachusetts Amherst
-- Course: 622 - Predictive Analytics and Statistical Learning
+
 
 ---
 
